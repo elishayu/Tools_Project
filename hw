@@ -1,0 +1,7 @@
+for arg in $1 
+do 
+   for s in list
+  echo s
+  continue  " jump to start of loop
+  break     " breaks out of a loop
+endfor
